@@ -1,0 +1,4 @@
+baseURL = 'http://aravinth.org/'
+languageCode = 'en-us'
+title = 'Portfolio'
+theme = "ananke"
