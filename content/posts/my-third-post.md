@@ -1,7 +1,7 @@
 ---
 title: "Delivery Cost Analysid and Bill Discrepancy"
 date: 2023-05-29T14:45:08+05:30
-draft: true
+draft: false
 ---
 
 # Delivery Cost Analysis and Billing Discrepancy Detection System for E-commerce Companies

@@ -1,7 +1,7 @@
 ---
 title: "Improving Customer Satisfaction - NLP approach"
 date: 2023-05-29T14:29:10+05:30
-draft: true
+draft: false
 ---
 
 # Improving Customer Satisfaction: Sentiment Analysis on Customer Feedback for an App Designed for Online Classes and Video Conferencing Using BERT
