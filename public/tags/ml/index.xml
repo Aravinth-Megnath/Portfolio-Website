@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ML on Aravinth</title>
+    <link>https://aravinth.github.io/tags/ml/</link>
+    <description>Recent content in ML on Aravinth</description>
+    <image>
+      <title>Aravinth</title>
+      <url>https://aravinth.github.io/img/Profile.jpg</url>
+      <link>https://aravinth.github.io/img/Profile.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jun 2023 10:48:55 +0530</lastBuildDate><atom:link href="https://aravinth.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BERT Based Sentiment Analysis</title>
+      <link>https://aravinth.github.io/projects/nlp/</link>
+      <pubDate>Thu, 01 Jun 2023 10:48:55 +0530</pubDate>
+      
+      <guid>https://aravinth.github.io/projects/nlp/</guid>
+      <description>Improving Customer Satisfaction: Sentiment Analysis on Customer Feedback for an App Designed for Online Classes and Video Conferencing Using BERT Objective The objective of this project is to improve customer satisfaction by performing sentiment analysis on customer feedback for an app designed for online classes and video conferencing. The analysis will be conducted using BERT (Bidirectional Encoder Representations from Transformers), a state-of-the-art natural language processing model.
+Data The initial dataset consisted of customer feedback collected from users of the app.</description>
+    </item>
+    
+  </channel>
+</rss>

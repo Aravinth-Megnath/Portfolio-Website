@@ -1,7 +1,16 @@
 ---
-title: "Improving Customer Satisfaction - NLP approach"
-date: 2023-05-29T14:29:10+05:30
+title: "BERT Based Sentiment Analysis"
+date: 2023-06-01T10:48:55+05:30
 draft: false
+weight: 101
+
+cover:
+   image: img/nlp.jpg
+   alt: 'NLP'
+   caption: 'Sentiment Analysis'
+
+tags: ['NLP','ML']
+archives: ['NLP']
 ---
 
 # Improving Customer Satisfaction: Sentiment Analysis on Customer Feedback for an App Designed for Online Classes and Video Conferencing Using BERT
@@ -112,4 +121,3 @@ Your feedback is important to me! If you have any suggestions, questions, or fee
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/aravinth-meganathan-200667a1/)
 
 I appreciate your valuable input and look forward to hearing from you!
-

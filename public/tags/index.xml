@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Portfolio</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on Portfolio</description>
+    <title>Tags on Aravinth</title>
+    <link>https://aravinth.github.io/tags/</link>
+    <description>Recent content in Tags on Aravinth</description>
+    <image>
+      <title>Aravinth</title>
+      <url>https://aravinth.github.io/img/Profile.jpg</url>
+      <link>https://aravinth.github.io/img/Profile.jpg</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jun 2023 10:48:55 +0530</lastBuildDate><atom:link href="https://aravinth.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ML</title>
+      <link>https://aravinth.github.io/tags/ml/</link>
+      <pubDate>Thu, 01 Jun 2023 10:48:55 +0530</pubDate>
+      
+      <guid>https://aravinth.github.io/tags/ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://aravinth.github.io/tags/nlp/</link>
+      <pubDate>Thu, 01 Jun 2023 10:48:55 +0530</pubDate>
+      
+      <guid>https://aravinth.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

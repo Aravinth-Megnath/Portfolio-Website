@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on Aravinth</title>
+    <link>https://aravinth.github.io/blog/</link>
+    <description>Recent content in Blogs on Aravinth</description>
+    <image>
+      <title>Aravinth</title>
+      <url>https://aravinth.github.io/img/Profile.jpg</url>
+      <link>https://aravinth.github.io/img/Profile.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jun 2023 18:50:10 +0530</lastBuildDate><atom:link href="https://aravinth.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Guide to Handling Missing Values in Data Science</title>
+      <link>https://aravinth.github.io/blog/missing-values/</link>
+      <pubDate>Thu, 01 Jun 2023 18:50:10 +0530</pubDate>
+      
+      <guid>https://aravinth.github.io/blog/missing-values/</guid>
+      <description>A Guide to Handling Missing Values in Data Science Introduction Missing values are a common problem in data science that can impact the accuracy and reliability of your data analysis. When working with real-world data, it is almost inevitable that you will encounter missing values in your dataset. In this guide, we will discuss strategies for identifying and handling missing values, as well as best practices for preventing missing values in the first place.</description>
+    </item>
+    
+  </channel>
+</rss>

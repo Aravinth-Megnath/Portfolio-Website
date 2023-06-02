@@ -2,23 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/my-third-post/</loc>
-    <lastmod>2023-05-29T14:45:08+05:30</lastmod>
+    <loc>https://aravinth.github.io/blog/missing-values/</loc>
+    <lastmod>2023-06-01T18:50:10+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2023-05-29T14:45:08+05:30</lastmod>
+    <loc>https://aravinth.github.io/projects/nlp/</loc>
+    <lastmod>2023-06-01T10:48:55+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2023-05-29T14:45:08+05:30</lastmod>
+    <loc>https://aravinth.github.io/projects/ml/</loc>
+    <lastmod>2023-06-01T10:49:07+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/posts/my-second-post/</loc>
-    <lastmod>2023-05-29T14:38:17+05:30</lastmod>
+    <loc>https://aravinth.github.io/projects/da/</loc>
+    <lastmod>2023-06-01T10:49:17+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/posts/my-first-post/</loc>
-    <lastmod>2023-05-29T14:29:10+05:30</lastmod>
+    <loc>https://aravinth.github.io/</loc>
+    <lastmod>2023-06-01T18:50:10+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://aravinth.github.io/blog/</loc>
+    <lastmod>2023-06-01T18:50:10+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://aravinth.github.io/contact/</loc>
+    <lastmod>2023-06-01T18:10:01+05:30</lastmod>
+  </url><url>
+    <loc>https://aravinth.github.io/about/</loc>
+    <lastmod>2023-06-01T17:55:10+05:30</lastmod>
+  </url><url>
+    <loc>https://aravinth.github.io/projects/</loc>
+    <lastmod>2023-06-01T10:49:17+05:30</lastmod>
+  </url><url>
+    <loc>https://aravinth.github.io/tags/ml/</loc>
+    <lastmod>2023-06-01T10:48:55+05:30</lastmod>
+  </url><url>
+    <loc>https://aravinth.github.io/tags/nlp/</loc>
+    <lastmod>2023-06-01T10:48:55+05:30</lastmod>
+  </url><url>
+    <loc>https://aravinth.github.io/tags/</loc>
+    <lastmod>2023-06-01T10:48:55+05:30</lastmod>
+  </url><url>
+    <loc>https://aravinth.github.io/categories/</loc>
+  </url><url>
+    <loc>https://aravinth.github.io/search/</loc>
   </url>
 </urlset>

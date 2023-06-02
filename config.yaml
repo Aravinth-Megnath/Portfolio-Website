@@ -1,0 +1,200 @@
+baseURL: "https://aravinth.github.io"
+languageCode: en-us
+title: Aravinth
+paginate: 5
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 5
+    - identifier: about
+      name: About
+      url: /about
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 20
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 30
+    #- identifier: resume
+    #  name: Resume
+    #  url: https://example.org
+    #  params:
+    #    external: true
+    #  weight: 40
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 50
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 60
+
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: G-ZE0Y3K4S3E
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+
+
+params:
+  showtoc: true
+  tocopen: True
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: True
+  ShowWordCount: False
+  ShowRssButtonInSectionTermList: False
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: True
+  hidemeta: false
+  hideSummary: false
+  TocSide: 'left'
+  
+  
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  
+  
+  # Open Graph Information (Shows while sharing the link)
+  title: Aravinth Meganathan
+  description: "Data Scientist, NLP, Open-Source"
+  keywords: [Aravinth Meganathan, Aravinth Meganathan blog, Aravinth Portfolio,Aravinth Meganathan Data Science, Aravinth Meganathan website Aravinth Meganathan , Data Science Portfolio, aravinth, data science, nlp, ml, natural language processing]
+  author: Aravinth Meganathan
+  images: ["/img/Profile.jpg"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: True
+
+
+
+
+
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "/favicon_io/favicon.ico"
+    favicon16x16: "/favicon_io/favicon-16x16.png"
+    favicon32x32: "/favicon_io/favicon-32x32.png"
+    apple_touch_icon: "/favicon_io/apple-touch-icon.png"
+    safari_pinned_tab: "/favicon_io/apple-touch-icon.png"
+
+  label:
+    text: "Aravinth Meganathan"
+    #icon: /favicon_io/apple-touch-icon.png
+    #iconHeight: 100
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: Hey there! I'm Aravinth.
+    subtitle: |
+      Data Scientist with a keen interest in NLP | Skilled in Python, Data Analysis, Data visualization | Experienced Business Owner
+
+    imageUrl: "/img/Profile.jpg"
+    imageWidth: 180
+    imageHeight: 180
+    imageTitle: Profile Picture
+    buttons:
+      - name: Blog
+        url: blog
+      - name: Projects
+        url: projects
+
+  # home-info mode
+  homeInfoParams:
+    Title: Aravinth Meganathan
+
+    Content: |
+        ### **Data Scientist | NLP | Machine Learning**
+        
+        
+        <div align='center'><img src="/img/Profile.jpg" alt="" width="180" height="180" hspace="0" vspace="20"> </div>
+        Hello, and welcome to my portfolio! I am Aravinth Meganathan, a passionate and motivated individual who is eager to make a mark in the field of Data Science. With a strong educational background and hands-on project experience, I am excited to share my journey and showcase my skills and accomplishments.
+
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/aravinth-meganathan-200667a1/"
+    - name: email
+      url: "mailto:aravinthmegnath@gmail.com"
+    - name: github
+      url: "https://github.com/Aravinth-Megnath"
+
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content", "blog", "projects", "about", "categories", "tags"]
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+
+
+pygmentsUseClasses: true
+markup:
+  # allow HTML in MD
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+
+cover:
+  linkFullImages: true
+
+  ShowBreadCrumbs: true
+
+  ShowReadingTime: true
+
+  ShowShareButtons: true
+
+  ShowPostNavLinks: true
+
+

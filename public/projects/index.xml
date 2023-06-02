@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Aravinth</title>
+    <link>https://aravinth.github.io/projects/</link>
+    <description>Recent content in Projects on Aravinth</description>
+    <image>
+      <title>Aravinth</title>
+      <url>https://aravinth.github.io/img/Profile.jpg</url>
+      <link>https://aravinth.github.io/img/Profile.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jun 2023 10:49:17 +0530</lastBuildDate><atom:link href="https://aravinth.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BERT Based Sentiment Analysis</title>
+      <link>https://aravinth.github.io/projects/nlp/</link>
+      <pubDate>Thu, 01 Jun 2023 10:48:55 +0530</pubDate>
+      
+      <guid>https://aravinth.github.io/projects/nlp/</guid>
+      <description>Improving Customer Satisfaction: Sentiment Analysis on Customer Feedback for an App Designed for Online Classes and Video Conferencing Using BERT Objective The objective of this project is to improve customer satisfaction by performing sentiment analysis on customer feedback for an app designed for online classes and video conferencing. The analysis will be conducted using BERT (Bidirectional Encoder Representations from Transformers), a state-of-the-art natural language processing model.
+Data The initial dataset consisted of customer feedback collected from users of the app.</description>
+    </item>
+    
+    <item>
+      <title>Crab Age Prediction</title>
+      <link>https://aravinth.github.io/projects/ml/</link>
+      <pubDate>Thu, 01 Jun 2023 10:49:07 +0530</pubDate>
+      
+      <guid>https://aravinth.github.io/projects/ml/</guid>
+      <description>Predicting the Age of Crabs: A Machine Learning Approach This repository contains a machine learning project focused on predicting the age of crabs based on various physical characteristics. The goal of this study is to develop a predictive model that can accurately estimate the age of crabs using features such as length, diameter, height, weight, and sex.
+Overview The dataset initially provided only included seven input features and a target column for prediction, which was not sufficient.</description>
+    </item>
+    
+    <item>
+      <title>Delivery Cost Analysis</title>
+      <link>https://aravinth.github.io/projects/da/</link>
+      <pubDate>Thu, 01 Jun 2023 10:49:17 +0530</pubDate>
+      
+      <guid>https://aravinth.github.io/projects/da/</guid>
+      <description>Delivery Cost Analysis and Billing Discrepancy Detection System for E-commerce Companies Abstract The Delivery Cost Analysis and Billing Discrepancy Detection System aims to optimize shipping operations for e-commerce companies. The system analyzes the delivery costs and detects any discrepancies in the billing by comparing the expected charges with the billed charges from courier companies. By identifying patterns and factors contributing to these discrepancies, the system helps reduce the difference between expected and billed charges, ultimately minimizing operational costs and enhancing customer satisfaction.</description>
+    </item>
+    
+  </channel>
+</rss>

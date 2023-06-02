@@ -1,40 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Portfolio</title>
-    <link>http://example.org/</link>
-    <description>Recent content on Portfolio</description>
+    <title>Aravinth</title>
+    <link>https://aravinth.github.io/</link>
+    <description>Recent content on Aravinth</description>
+    <image>
+      <title>Aravinth</title>
+      <url>https://aravinth.github.io/img/Profile.jpg</url>
+      <link>https://aravinth.github.io/img/Profile.jpg</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 May 2023 14:45:08 +0530</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jun 2023 18:50:10 +0530</lastBuildDate><atom:link href="https://aravinth.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Delivery Cost Analysid and Bill Discrepancy</title>
-      <link>http://example.org/posts/my-third-post/</link>
-      <pubDate>Mon, 29 May 2023 14:45:08 +0530</pubDate>
+      <title>A Guide to Handling Missing Values in Data Science</title>
+      <link>https://aravinth.github.io/blog/missing-values/</link>
+      <pubDate>Thu, 01 Jun 2023 18:50:10 +0530</pubDate>
       
-      <guid>http://example.org/posts/my-third-post/</guid>
-      <description>Delivery Cost Analysis and Billing Discrepancy Detection System for E-commerce Companies Abstract The Delivery Cost Analysis and Billing Discrepancy Detection System aims to optimize shipping operations for e-commerce companies. The system analyzes the delivery costs and detects any discrepancies in the billing by comparing the expected charges with the billed charges from courier companies. By identifying patterns and factors contributing to these discrepancies, the system helps reduce the difference between expected and billed charges, ultimately minimizing operational costs and enhancing customer satisfaction.</description>
+      <guid>https://aravinth.github.io/blog/missing-values/</guid>
+      <description>A Guide to Handling Missing Values in Data Science Introduction Missing values are a common problem in data science that can impact the accuracy and reliability of your data analysis. When working with real-world data, it is almost inevitable that you will encounter missing values in your dataset. In this guide, we will discuss strategies for identifying and handling missing values, as well as best practices for preventing missing values in the first place.</description>
     </item>
     
     <item>
-      <title>Crab Age Prediction - Machine Learning Approach</title>
-      <link>http://example.org/posts/my-second-post/</link>
-      <pubDate>Mon, 29 May 2023 14:38:17 +0530</pubDate>
+      <title>BERT Based Sentiment Analysis</title>
+      <link>https://aravinth.github.io/projects/nlp/</link>
+      <pubDate>Thu, 01 Jun 2023 10:48:55 +0530</pubDate>
       
-      <guid>http://example.org/posts/my-second-post/</guid>
+      <guid>https://aravinth.github.io/projects/nlp/</guid>
+      <description>Improving Customer Satisfaction: Sentiment Analysis on Customer Feedback for an App Designed for Online Classes and Video Conferencing Using BERT Objective The objective of this project is to improve customer satisfaction by performing sentiment analysis on customer feedback for an app designed for online classes and video conferencing. The analysis will be conducted using BERT (Bidirectional Encoder Representations from Transformers), a state-of-the-art natural language processing model.
+Data The initial dataset consisted of customer feedback collected from users of the app.</description>
+    </item>
+    
+    <item>
+      <title>Crab Age Prediction</title>
+      <link>https://aravinth.github.io/projects/ml/</link>
+      <pubDate>Thu, 01 Jun 2023 10:49:07 +0530</pubDate>
+      
+      <guid>https://aravinth.github.io/projects/ml/</guid>
       <description>Predicting the Age of Crabs: A Machine Learning Approach This repository contains a machine learning project focused on predicting the age of crabs based on various physical characteristics. The goal of this study is to develop a predictive model that can accurately estimate the age of crabs using features such as length, diameter, height, weight, and sex.
 Overview The dataset initially provided only included seven input features and a target column for prediction, which was not sufficient.</description>
     </item>
     
     <item>
-      <title>Improving Customer Satisfaction - NLP approach</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Mon, 29 May 2023 14:29:10 +0530</pubDate>
+      <title>Delivery Cost Analysis</title>
+      <link>https://aravinth.github.io/projects/da/</link>
+      <pubDate>Thu, 01 Jun 2023 10:49:17 +0530</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>Improving Customer Satisfaction: Sentiment Analysis on Customer Feedback for an App Designed for Online Classes and Video Conferencing Using BERT Objective The objective of this project is to improve customer satisfaction by performing sentiment analysis on customer feedback for an app designed for online classes and video conferencing. The analysis will be conducted using BERT (Bidirectional Encoder Representations from Transformers), a state-of-the-art natural language processing model.
-Data The initial dataset consisted of customer feedback collected from users of the app.</description>
+      <guid>https://aravinth.github.io/projects/da/</guid>
+      <description>Delivery Cost Analysis and Billing Discrepancy Detection System for E-commerce Companies Abstract The Delivery Cost Analysis and Billing Discrepancy Detection System aims to optimize shipping operations for e-commerce companies. The system analyzes the delivery costs and detects any discrepancies in the billing by comparing the expected charges with the billed charges from courier companies. By identifying patterns and factors contributing to these discrepancies, the system helps reduce the difference between expected and billed charges, ultimately minimizing operational costs and enhancing customer satisfaction.</description>
     </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://aravinth.github.io/contact/</link>
+      <pubDate>Thu, 01 Jun 2023 18:10:01 +0530</pubDate>
+      
+      <guid>https://aravinth.github.io/contact/</guid>
+      <description>I&amp;rsquo;m best reached via Email or LinkedIn. I&amp;rsquo;m always open to interesting conversations and collaboration.
+Email: aravinthmegnath@gmail.com LinkedIn: Aravinth Meganathan GitHub: Aravinth-Megnath </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://aravinth.github.io/about/</link>
+      <pubDate>Thu, 01 Jun 2023 17:55:10 +0530</pubDate>
+      
+      <guid>https://aravinth.github.io/about/</guid>
+      <description>I am a passionate data science enthusiast and a fresher in the field, eager to apply my knowledge and skills to real-world projects. With a strong foundation in data analysis, machine learning, and natural language processing (NLP), I am excited about the possibilities that data science offers in solving complex problems.
+My technical skills include Python, SQL, statistical analysis, machine learning, NLP, and data visualization. I have gained hands-on experience in various projects, some of which are highlighted below:</description>
+    </item>
+    
     
   </channel>
 </rss>
